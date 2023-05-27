@@ -54,11 +54,11 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary> 
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranjeet-singh-1&theme=github	)](https://github.com/ranjeet-singh-1/github-readme-activity-graph)
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranjeet-singh-1&theme=github	)](https://github.com/ranjeet-singh-1/github-readme-activity-graph) -->
 
  
 </details>
